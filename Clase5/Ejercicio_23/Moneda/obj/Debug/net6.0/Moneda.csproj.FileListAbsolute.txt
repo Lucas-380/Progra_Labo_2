@@ -1,0 +1,12 @@
+C:\Users\lucas\Documents\Proyectos\Clase5\Ejercicio_23\Moneda\bin\Debug\net6.0\Moneda.deps.json
+C:\Users\lucas\Documents\Proyectos\Clase5\Ejercicio_23\Moneda\bin\Debug\net6.0\Moneda.dll
+C:\Users\lucas\Documents\Proyectos\Clase5\Ejercicio_23\Moneda\bin\Debug\net6.0\Moneda.pdb
+C:\Users\lucas\Documents\Proyectos\Clase5\Ejercicio_23\Moneda\obj\Debug\net6.0\Moneda.csproj.AssemblyReference.cache
+C:\Users\lucas\Documents\Proyectos\Clase5\Ejercicio_23\Moneda\obj\Debug\net6.0\Moneda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\Documents\Proyectos\Clase5\Ejercicio_23\Moneda\obj\Debug\net6.0\Moneda.AssemblyInfoInputs.cache
+C:\Users\lucas\Documents\Proyectos\Clase5\Ejercicio_23\Moneda\obj\Debug\net6.0\Moneda.AssemblyInfo.cs
+C:\Users\lucas\Documents\Proyectos\Clase5\Ejercicio_23\Moneda\obj\Debug\net6.0\Moneda.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Documents\Proyectos\Clase5\Ejercicio_23\Moneda\obj\Debug\net6.0\Moneda.dll
+C:\Users\lucas\Documents\Proyectos\Clase5\Ejercicio_23\Moneda\obj\Debug\net6.0\refint\Moneda.dll
+C:\Users\lucas\Documents\Proyectos\Clase5\Ejercicio_23\Moneda\obj\Debug\net6.0\Moneda.pdb
+C:\Users\lucas\Documents\Proyectos\Clase5\Ejercicio_23\Moneda\obj\Debug\net6.0\ref\Moneda.dll
