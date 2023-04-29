@@ -29,12 +29,12 @@ namespace Entidades
         {
             StringBuilder sb = new StringBuilder();
             sb.Append("Cantidad de competidores: " + this.cantidadCompetidores.ToString());
-            sb.Append("\tCantidad de vueltas: " + this.cantidadVueltas.ToString());
+            sb.AppendLine("\tCantidad de vueltas: " + this.cantidadVueltas.ToString());
             if (this.competidores.Count > 0)
             {
-                sb.AppendLine("\tAUTOS F1 en competencia: ");
-                sb.AppendLine("--------------------------------------------------------------------------------------------------------");
-                foreach (AutoF1 item in competidores)
+                sb.AppendLine("--------------------------------------------------------------------------------------------------");
+                sb.AppendLine("\nAUTOS F1 en competencia: ");
+                foreach (VehiculoDeCarrera item in competidores)
                 {
                     sb.AppendLine(item.MostrarDatos());
                 }
@@ -60,7 +60,12 @@ namespace Entidades
         }
         public static bool operator !=(Competencia c, VehiculoDeCarrera a)
         {
-            return !(c == a);
+            if ((c.tipo == ETipoCompetencia.F1 && a is AutoF1) ||
+                (c.tipo == ETipoCompetencia.MotoCross && a is MotoCross))
+            {
+                return !(c == a);
+            }
+            return false;
         }
 
         public static bool operator +(Competencia c, VehiculoDeCarrera a)

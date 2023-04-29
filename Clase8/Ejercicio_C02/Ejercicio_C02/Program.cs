@@ -7,8 +7,16 @@ namespace Ejercicio_C02
         static void Main(string[] args)
         {
             Random azar = new Random();
-            Competencia formulaUno = new Competencia(10, 5, Competencia.ETipoCompetencia.F1);
+            Competencia formulaUno = new Competencia(10, 5, Competencia.ETipoCompetencia.MotoCross);
             AutoF1[] autos = new AutoF1[10];
+
+            MotoCross moto = new MotoCross(10, "lelel");
+
+            if(formulaUno + moto)
+            {
+                Console.WriteLine("Se Agrego el siguiente auto a la competencia: {0}", moto.MostrarDatos());
+            }
+
 
             for (int i = 0; i < autos.Length; i++)
             {
@@ -26,6 +34,7 @@ namespace Ejercicio_C02
             Console.WriteLine();
             Console.WriteLine("<-------------------------------------------------------------------------------------------------->");
             Console.WriteLine(formulaUno.MostrarDatos());
+
 
             Console.ReadKey();
         }
