@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "20220426-Consola/1.0.0": {
+        "dependencies": {
+          "20220426-PP": "1.0.0"
+        },
+        "runtime": {
+          "20220426-Consola.dll": {}
+        }
+      },
+      "20220426-PP/1.0.0": {
+        "runtime": {
+          "20220426-PP.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "20220426-Consola/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "20220426-PP/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

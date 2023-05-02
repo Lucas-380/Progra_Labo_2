@@ -1,0 +1,12 @@
+C:\Users\lucas\Desktop\PracticaPP\20220426-PP\20220426-PP\obj\Debug\net6.0\20220426-PP.csproj.AssemblyReference.cache
+C:\Users\lucas\Desktop\PracticaPP\20220426-PP\20220426-PP\obj\Debug\net6.0\20220426-PP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\Desktop\PracticaPP\20220426-PP\20220426-PP\obj\Debug\net6.0\20220426-PP.AssemblyInfoInputs.cache
+C:\Users\lucas\Desktop\PracticaPP\20220426-PP\20220426-PP\obj\Debug\net6.0\20220426-PP.AssemblyInfo.cs
+C:\Users\lucas\Desktop\PracticaPP\20220426-PP\20220426-PP\obj\Debug\net6.0\20220426-PP.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\PracticaPP\20220426-PP\20220426-PP\bin\Debug\net6.0\20220426-PP.deps.json
+C:\Users\lucas\Desktop\PracticaPP\20220426-PP\20220426-PP\bin\Debug\net6.0\20220426-PP.dll
+C:\Users\lucas\Desktop\PracticaPP\20220426-PP\20220426-PP\bin\Debug\net6.0\20220426-PP.pdb
+C:\Users\lucas\Desktop\PracticaPP\20220426-PP\20220426-PP\obj\Debug\net6.0\20220426-PP.dll
+C:\Users\lucas\Desktop\PracticaPP\20220426-PP\20220426-PP\obj\Debug\net6.0\refint\20220426-PP.dll
+C:\Users\lucas\Desktop\PracticaPP\20220426-PP\20220426-PP\obj\Debug\net6.0\20220426-PP.pdb
+C:\Users\lucas\Desktop\PracticaPP\20220426-PP\20220426-PP\obj\Debug\net6.0\ref\20220426-PP.dll

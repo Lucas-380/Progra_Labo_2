@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "FrmCompetencia/1.0.0": {
+        "dependencies": {
+          "20211020-RPP": "1.0.0"
+        },
+        "runtime": {
+          "FrmCompetencia.dll": {}
+        }
+      },
+      "20211020-RPP/1.0.0": {
+        "runtime": {
+          "20211020-RPP.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FrmCompetencia/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "20211020-RPP/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
