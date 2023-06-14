@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "qeEzCk0LAvJSj6qvLLBBr+N53+wh3tNyY/igyqPcw1Q0F6Mt3qNioo3nPO1tIZ5NRstc11XfTP9o0rYmBv9guw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Usuario\\Documents\\Proyectos\\Progra_Labo_2\\Multi-hilo\\Ejercicion_I02\\Entidades\\Entidades.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Usuario\\.nuget\\packages\\namegenerator\\2.0.4\\namegenerator.2.0.4.nupkg.sha512",
+    "C:\\Users\\Usuario\\.nuget\\packages\\system.text.json\\5.0.1\\system.text.json.5.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
