@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lucas\\Documents\\Proyectos\\Excepciones\\Ejercicio_C02\\Ejercicio_C02\\Ejercicio_C02.csproj": {}
+    "C:\\Users\\Usuario\\Documents\\Proyectos\\Progra_Labo_2\\Excepciones\\Ejercicio_C02\\Ejercicio_C02\\Ejercicio_C02.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lucas\\Documents\\Proyectos\\Excepciones\\Ejercicio_C02\\Ejercicio_C02\\Ejercicio_C02.csproj": {
+    "C:\\Users\\Usuario\\Documents\\Proyectos\\Progra_Labo_2\\Excepciones\\Ejercicio_C02\\Ejercicio_C02\\Ejercicio_C02.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lucas\\Documents\\Proyectos\\Excepciones\\Ejercicio_C02\\Ejercicio_C02\\Ejercicio_C02.csproj",
+        "projectUniqueName": "C:\\Users\\Usuario\\Documents\\Proyectos\\Progra_Labo_2\\Excepciones\\Ejercicio_C02\\Ejercicio_C02\\Ejercicio_C02.csproj",
         "projectName": "Ejercicio_C02",
-        "projectPath": "C:\\Users\\lucas\\Documents\\Proyectos\\Excepciones\\Ejercicio_C02\\Ejercicio_C02\\Ejercicio_C02.csproj",
-        "packagesPath": "C:\\Users\\lucas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lucas\\Documents\\Proyectos\\Excepciones\\Ejercicio_C02\\Ejercicio_C02\\obj\\",
+        "projectPath": "C:\\Users\\Usuario\\Documents\\Proyectos\\Progra_Labo_2\\Excepciones\\Ejercicio_C02\\Ejercicio_C02\\Ejercicio_C02.csproj",
+        "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Usuario\\Documents\\Proyectos\\Progra_Labo_2\\Excepciones\\Ejercicio_C02\\Ejercicio_C02\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\lucas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\lucas\\Documents\\Proyectos\\Excepciones\\Ejercicio_C02\\Entidades\\Entidades.csproj": {
-                "projectPath": "C:\\Users\\lucas\\Documents\\Proyectos\\Excepciones\\Ejercicio_C02\\Entidades\\Entidades.csproj"
+              "C:\\Users\\Usuario\\Documents\\Proyectos\\Progra_Labo_2\\Excepciones\\Ejercicio_C02\\Entidades\\Entidades.csproj": {
+                "projectPath": "C:\\Users\\Usuario\\Documents\\Proyectos\\Progra_Labo_2\\Excepciones\\Ejercicio_C02\\Entidades\\Entidades.csproj"
               }
             }
           }
@@ -59,21 +59,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\lucas\\Documents\\Proyectos\\Excepciones\\Ejercicio_C02\\Entidades\\Entidades.csproj": {
+    "C:\\Users\\Usuario\\Documents\\Proyectos\\Progra_Labo_2\\Excepciones\\Ejercicio_C02\\Entidades\\Entidades.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lucas\\Documents\\Proyectos\\Excepciones\\Ejercicio_C02\\Entidades\\Entidades.csproj",
+        "projectUniqueName": "C:\\Users\\Usuario\\Documents\\Proyectos\\Progra_Labo_2\\Excepciones\\Ejercicio_C02\\Entidades\\Entidades.csproj",
         "projectName": "Entidades",
-        "projectPath": "C:\\Users\\lucas\\Documents\\Proyectos\\Excepciones\\Ejercicio_C02\\Entidades\\Entidades.csproj",
-        "packagesPath": "C:\\Users\\lucas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lucas\\Documents\\Proyectos\\Excepciones\\Ejercicio_C02\\Entidades\\obj\\",
+        "projectPath": "C:\\Users\\Usuario\\Documents\\Proyectos\\Progra_Labo_2\\Excepciones\\Ejercicio_C02\\Entidades\\Entidades.csproj",
+        "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Usuario\\Documents\\Proyectos\\Progra_Labo_2\\Excepciones\\Ejercicio_C02\\Entidades\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\lucas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -114,7 +114,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }
